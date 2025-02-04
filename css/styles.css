@@ -12,15 +12,6 @@
  */
 
 
-html {
-  touch-action: none;
-  user-select: none;
-  -ms-touch-action: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-}
-
  @media (max-width: 991px) {
   header.masthead {
     display: none; /* Set transparency */
